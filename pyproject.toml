@@ -1,0 +1,11 @@
+[project]
+name = "kalkulator-wydruku"
+version = "0.0.1"
+dependencies = [
+
+]
+requires-python = ">=3.11"
+readme = "README.md"
+
+[project.scripts]
+kosztyWydruku = "main:main"
